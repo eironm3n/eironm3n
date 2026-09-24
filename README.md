@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5C56,100:63C1AF&height=180&section=header&text=Ar%C3%B3n%20Rojas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Arón Rojas" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Ar%C3%B3n%20Rojas&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=38" width="100%" alt="Arón Rojas" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=63C1AF&center=true&vCenter=true&width=560&lines=Soporte+de+Aplicaciones+L2;Cloud+%26+DevOps+Engineering;Construyendo+OpenCaption+Live+%F0%9F%9A%80" alt="Soporte de Aplicaciones L2 · Cloud & DevOps Engineering" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=560&lines=%3E+Soporte+de+Aplicaciones+L2;%3E+Cloud+%26+DevOps+Engineering;%3E+Construyendo+OpenCaption+Live+%F0%9F%9A%80" alt="Soporte de Aplicaciones L2 · Cloud & DevOps Engineering" />
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:c1.aronrojas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-rojas)
