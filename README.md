@@ -10,6 +10,19 @@
 
 </div>
 
+```bash
+$ whoami
+Arón Rojas
+
+$ cat rol.txt
+Soporte de Aplicaciones L2 · Cloud & DevOps Engineering
+
+$ ls -1 proyectos/
+opencaption-live/
+shortlink-service/
+portafolio-web/
+```
+
 &nbsp;
 
 5 años de soporte técnico y de aplicaciones en entornos críticos de cómputo intensivo del sector energético (geociencia / oil & gas) — de Trainee a referente L2 con autonomía operativa completa. Técnico Universitario en Programación (UTN FRSR, título en trámite).
