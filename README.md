@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Ar%C3%B3n%20Rojas&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=38" width="100%" alt="Arón Rojas" />
+<img src="https://raw.githubusercontent.com/eironm3n/eironm3n/main/assets/matrix-rain.svg" width="100%" alt="Arón Rojas — Soporte de Aplicaciones L2 · Cloud & DevOps Engineering" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=560&lines=%3E+Soporte+de+Aplicaciones+L2;%3E+Cloud+%26+DevOps+Engineering;%3E+Construyendo+OpenCaption+Live+%F0%9F%9A%80" alt="Soporte de Aplicaciones L2 · Cloud & DevOps Engineering" />
 
@@ -9,19 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portafolio-web-aron-rojas.vercel.app)
 
 </div>
-
-```bash
-$ whoami
-Arón Rojas
-
-$ cat rol.txt
-Soporte de Aplicaciones L2 · Cloud & DevOps Engineering
-
-$ ls -1 proyectos/
-opencaption-live/
-shortlink-service/
-portafolio-web/
-```
 
 &nbsp;
 
