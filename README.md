@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hola, soy Arón 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5C56,100:63C1AF&height=180&section=header&text=Ar%C3%B3n%20Rojas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Arón Rojas" />
 
-**Soporte de Aplicaciones L2 · Cloud & DevOps**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=63C1AF&center=true&vCenter=true&width=560&lines=Soporte+de+Aplicaciones+L2;Cloud+%26+DevOps+Engineering;Construyendo+OpenCaption+Live+%F0%9F%9A%80" alt="Soporte de Aplicaciones L2 · Cloud & DevOps Engineering" />
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:c1.aronrojas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-rojas)
