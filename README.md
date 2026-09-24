@@ -4,6 +4,7 @@
 
 5 años de soporte técnico y de aplicaciones en entornos críticos de cómputo intensivo del sector energético (geociencia / oil & gas) — de Trainee a referente L2 con autonomía operativa completa. Técnico Universitario en Programación (UTN FRSR, título en trámite).
 
+- 🚀 Recién completé [`OpenCaption Live`](https://github.com/eironm3n/vibeathon-live-captions) para la Vibeathon de Nerdearla 2026: transcripción y traducción simultánea en tiempo real con la Gemini Live API
 - 🔭 Construyendo un pipeline de CI/CD end-to-end de portafolio: [`shortlink-service`](https://github.com/eironm3n/shortlink-service) (FastAPI · Docker · GitHub Actions · Terraform · Prometheus/Grafana)
 - 🌱 Profundizando en Terraform, Kubernetes y observabilidad
 - 🎯 Objetivo: pasar de soporte a DevOps / Cloud Engineering
@@ -18,7 +19,7 @@
 
 **Lenguajes & Datos**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 **Sistemas**
 
@@ -28,6 +29,7 @@
 
 | Proyecto | Descripción |
 |---|---|
+| [OpenCaption Live](https://github.com/eironm3n/vibeathon-live-captions) | Transcripción y traducción simultánea en tiempo real para conferencias · FastAPI + WebSockets + Gemini Live API · Vibeathon Nerdearla 2026 |
 | [shortlink-service](https://github.com/eironm3n/shortlink-service) | FastAPI + Docker multi-stage · CI/CD (ruff, mypy, pytest, Trivy) · Terraform (AWS Lightsail) · Prometheus/Grafana |
 | [Dashboard Power BI — Videojuegos](https://github.com/eironm3n/Proyectos-Power-Bi) | ETL, modelado en estrella y DAX sobre ventas históricas de videojuegos |
 | [Portafolio Web](https://github.com/eironm3n/PortafolioWeb-AronRojas) | Vue 3 + Vite, en producción |
