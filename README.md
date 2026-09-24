@@ -28,7 +28,7 @@
 
 </div>
 
-&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F5C56,100:63C1AF&height=3&width=1000" width="100%" alt="" />
 
 ## 📌 Proyectos destacados
 
