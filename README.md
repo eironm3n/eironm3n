@@ -1,34 +1,76 @@
-# ¡Hola! Soy Arón Rojas 👋
+<div align="center">
 
-**Soporte de Aplicaciones L2 · Cloud & DevOps.**
+# Hola, soy Arón 👋
+
+**Soporte de Aplicaciones L2 · Cloud & DevOps**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:c1.aronrojas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-rojas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portafolio-web-aron-rojas.vercel.app)
+
+</div>
+
+&nbsp;
 
 5 años de soporte técnico y de aplicaciones en entornos críticos de cómputo intensivo del sector energético (geociencia / oil & gas) — de Trainee a referente L2 con autonomía operativa completa. Técnico Universitario en Programación (UTN FRSR, título en trámite).
 
-- 🚀 Recién completé [`OpenCaption Live`](https://github.com/eironm3n/vibeathon-live-captions) para la Vibeathon de Nerdearla 2026: transcripción y traducción simultánea en tiempo real con la Gemini Live API
-- 🔭 Construyendo un pipeline de CI/CD end-to-end de portafolio: [`shortlink-service`](https://github.com/eironm3n/shortlink-service) (FastAPI · Docker · GitHub Actions · Terraform · Prometheus/Grafana)
+- 🚀 Recién completé **[OpenCaption Live](https://github.com/eironm3n/vibeathon-live-captions)** para la Vibeathon de Nerdearla 2026 — transcripción y traducción en tiempo real con la Gemini Live API
+- 🔭 Construyendo **[shortlink-service](https://github.com/eironm3n/shortlink-service)** — pipeline de CI/CD end-to-end (FastAPI · Docker · GitHub Actions · Terraform · Prometheus/Grafana)
 - 🌱 Profundizando en Terraform, Kubernetes y observabilidad
-- 💼 Portafolio: [portafolio-web-aron-rojas.vercel.app](https://portafolio-web-aron-rojas.vercel.app)
-- 📫 Contacto: c1.aronrojas@gmail.com · [LinkedIn](https://www.linkedin.com/in/aron-rojas)
 
-## 🛠️ Stack
+&nbsp;
 
-**Cloud & DevOps**
+<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GithubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+### 🛠️ Stack
 
-**Lenguajes & Datos**
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,terraform,grafana,prometheus,kubernetes,python,fastapi,mysql,vue,git,linux,bash,powershell,windows&theme=dark&perline=9" alt="Stack tecnológico" />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+</div>
 
-**Sistemas**
-
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+&nbsp;
 
 ## 📌 Proyectos destacados
 
-| Proyecto | Descripción |
-|---|---|
-| [OpenCaption Live](https://github.com/eironm3n/vibeathon-live-captions) | Transcripción y traducción simultánea en tiempo real para conferencias · FastAPI + WebSockets + Gemini Live API · Vibeathon Nerdearla 2026 |
-| [shortlink-service](https://github.com/eironm3n/shortlink-service) | FastAPI + Docker multi-stage · CI/CD (ruff, mypy, pytest, Trivy) · Terraform (AWS Lightsail) · Prometheus/Grafana |
-| [Dashboard Power BI — Videojuegos](https://github.com/eironm3n/Proyectos-Power-Bi) | ETL, modelado en estrella y DAX sobre ventas históricas de videojuegos |
-| [Portafolio Web](https://github.com/eironm3n/PortafolioWeb-AronRojas) | Vue 3 + Vite, en producción |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[OpenCaption Live](https://github.com/eironm3n/vibeathon-live-captions)**
+
+Transcripción y traducción simultánea en tiempo real para conferencias — Vibeathon Nerdearla 2026.
+
+`Python` `FastAPI` `WebSockets` `Gemini Live API`
+
+</td>
+<td width="50%" valign="top">
+
+**[shortlink-service](https://github.com/eironm3n/shortlink-service)**
+
+Pipeline DevOps end-to-end: CI/CD, IaC y observabilidad.
+
+`FastAPI` `Docker` `GitHub Actions` `Terraform` `Prometheus/Grafana`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Dashboard Power BI — Videojuegos](https://github.com/eironm3n/Proyectos-Power-Bi)**
+
+ETL, modelado en estrella y DAX sobre ventas históricas de videojuegos.
+
+`Power BI` `Power Query` `DAX`
+
+</td>
+<td width="50%" valign="top">
+
+**[Portafolio Web](https://github.com/eironm3n/PortafolioWeb-AronRojas)**
+
+Sitio personal en producción.
+
+`Vue 3` `Vite` `Vercel`
+
+</td>
+</tr>
+</table>
