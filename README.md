@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/eironm3n/eironm3n/main/assets/matrix-rain.svg" width="100%" alt="Arón Rojas — Soporte de Aplicaciones L2 · Cloud & DevOps Engineering" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=560&lines=%3E+Soporte+de+Aplicaciones+L2;%3E+Cloud+%26+DevOps+Engineering;%3E+Construyendo+OpenCaption+Live+%F0%9F%9A%80" alt="Soporte de Aplicaciones L2 · Cloud & DevOps Engineering" />
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:c1.aronrojas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aron-rojas)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portafolio-web-aron-rojas.vercel.app)
