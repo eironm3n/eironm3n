@@ -12,7 +12,7 @@
 
 5 años de soporte técnico y de aplicaciones en entornos críticos de cómputo intensivo del sector energético (geociencia / oil & gas) — de Trainee a referente L2 con autonomía operativa completa. Técnico Universitario en Programación (UTN FRSR, título en trámite).
 
-- 🚀 Recién completé **[OpenCaption Live](https://github.com/eironm3n/vibeathon-live-captions)** para la Vibeathon de Nerdearla 2026 — transcripción y traducción en tiempo real con la Gemini Live API
+- 🚀 Publiqué **[OpenCaption Live](https://github.com/eironm3n/vibeathon-live-captions)**, subtítulos y traducción en vivo open source, sin API keys ni costo (Whisper + Argos/Ollama). Nació como propuesta para la Vibeathon de Nerdearla 2026
 - 🔭 Construyendo **[shortlink-service](https://github.com/eironm3n/shortlink-service)** — pipeline de CI/CD end-to-end (FastAPI · Docker · GitHub Actions · Terraform · Prometheus/Grafana)
 - 🌱 Profundizando en Terraform, Kubernetes y observabilidad
 
@@ -22,7 +22,7 @@
 
 ### 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,terraform,grafana,prometheus,kubernetes,python,fastapi,mysql,vue,git,linux,bash,powershell,windows&theme=dark&perline=9" alt="Stack tecnológico" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,terraform,grafana,prometheus,python,fastapi,mysql,vue,git,linux,bash,powershell,windows&theme=dark&perline=9" alt="Stack tecnológico" />
 
 </div>
 
@@ -36,9 +36,9 @@
 
 **[OpenCaption Live](https://github.com/eironm3n/vibeathon-live-captions)**
 
-Transcripción y traducción simultánea en tiempo real para conferencias — Vibeathon Nerdearla 2026.
+Transcripción y traducción simultánea en tiempo real para conferencias, 100% local por defecto. Idea nacida en la Vibeathon Nerdearla 2026.
 
-`Python` `FastAPI` `WebSockets` `Gemini Live API`
+`Python` `FastAPI` `WebSockets` `Whisper` `Docker`
 
 </td>
 <td width="50%" valign="top">
